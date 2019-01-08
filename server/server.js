@@ -36,3 +36,5 @@ app.listen(3000, () => {
 // }, (err) => {
 //     console.log('Unable to save user', err);
 // });
+
+module.exports = {app};
